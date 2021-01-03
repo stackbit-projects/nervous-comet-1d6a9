@@ -9,7 +9,7 @@ sections:
       **T6-BBQ ** 
       အမှတ် (၆)ရပ်ကွက် ၊အောင်ချမ်းသာလမ်း၊ ကျောက်မဲမြို့။
     actions:
-      - label: ''
+      - label: 'Menu '
         url: /contact
         style: button
       - label: lorem-ipsum
