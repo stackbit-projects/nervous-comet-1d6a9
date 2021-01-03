@@ -12,7 +12,7 @@ sections:
       - label: 'Menu '
         url: /contact
         style: button
-        new_window: true
+        new_window: false
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
