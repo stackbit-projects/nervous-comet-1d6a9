@@ -5,9 +5,9 @@ sections:
   - section_id: Restaurant
     type: section_hero
     title: T6-BBQ
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      **T6-BBQ ** 
+      အမှတ် (၆)ရပ်ကွက် ၊အောင်ချမ်းသာလမ်း၊ ကျောက်မဲမြို့။
     actions:
       - label: Let's talk
         url: /contact
